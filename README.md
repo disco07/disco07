@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at koneenok@outlook.fr! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -55,6 +55,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/drissa-koné"><img src="https://img.shields.io/badge/-Koné%20Drissa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:koneenoke@gmail.com"><img src="https://img.shields.io/badge/-koneenoke@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:koneenok@outlook.fr"><img src="https://img.shields.io/badge/-koneenok@outlook.fr-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
+<a href="mailto:koneenok@outlook.fr"><img src="https://img.shields.io/badge/-koneenok@outlook.fr-1877F2?style=flat&logo=Outlook&logoColor=white"/></a>
 <a href="https://facebook.com/driss.kone"><img src="https://img.shields.io/badge/-@Koné Drissa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
