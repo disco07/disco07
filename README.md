@@ -1,6 +1,6 @@
 <!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/disco07/disco07/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-<h2>Hey there! I'm Drissa</h2>
+<h2>👋 Hey there! I'm Drissa</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Drissa -->
 
@@ -55,5 +55,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/drissa-koné"><img src="https://img.shields.io/badge/-Koné%20Drissa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:koneenoke@gmail.com"><img src="https://img.shields.io/badge/-koneenoke@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/driss.kone"><img src="https://img.shields.io/badge/-@Drissa Koné-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:koneenok@outlook.fr"><img src="https://img.shields.io/badge/-koneenok@outlook.fr-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
+<a href="https://facebook.com/driss.kone"><img src="https://img.shields.io/badge/-@Koné Drissa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
