@@ -51,6 +51,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
