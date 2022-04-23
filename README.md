@@ -68,5 +68,4 @@
 <a href="https://linkedin.com/in/drissa-koné"><img src="https://img.shields.io/badge/-Koné%20Drissa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:koneenoke@gmail.com"><img src="https://img.shields.io/badge/-koneenoke@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:koneenok@outlook.fr"><img src="https://img.shields.io/badge/-koneenok@outlook.fr-1877F2?style=flat&logo=Outlook&logoColor=white"/></a>
-<a href="https://facebook.com/driss.kone"><img src="https://img.shields.io/badge/-@Koné Drissa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
