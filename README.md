@@ -17,6 +17,7 @@
 ### 🛠 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![GO](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
