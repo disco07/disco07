@@ -22,8 +22,8 @@
 </a>
 </p> -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disco07&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disco07&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disco07&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disco07&hide=go&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disco07&hide=go&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=disco07&theme=github)
 
