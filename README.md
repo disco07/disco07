@@ -5,11 +5,13 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Drissa -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. \
-🔭 I use PHP (Symfony), Golang, Python and JavaScript/TypeScript (React) \
-🛠 I'm working with PostgreSQL, RabbitMQ \
-⌨ I do OPS with Docker, kubernetes, Terraform 
+<ul>
+ <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li>
+ <li>🔭 I use PHP (Symfony), Golang, Python and JavaScript/TypeScript (React).</li>
+ <li>🛠 I'm working with PostgreSQL, RabbitMQ.</li>
+ <li>⌨ I do OPS with Docker, kubernetes, Terraform.</li>
+ <li>⚡ Coding is my passion.</li>
+</ul>
 <!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
@@ -17,45 +19,6 @@
 ✉️ &nbsp;You can shoot me an email at koneenok@outlook.fr! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<!-- ### 🛠 Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![GO](https://img.shields.io/badge/-Go-000?&logo=Go)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Node.js](https://img.shields.io/badge/-NodeJs-000?&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### 🛠 Frameworks
-
-![React](https://img.shields.io/badge/-ReactJS-000?&logo=React)
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Spring](https://img.shields.io/badge/-Spring%20boot-000?&logo=Spring)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
-
-### 🛠 Database && Cloud
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Mysql](https://img.shields.io/badge/-Mysql-000?&logo=Mysql)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![MSServer](https://img.shields.io/badge/-MSServer-000?&logo=Microsoft-Sql-server)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Microsoft-Sql-server)
-
-### 🛠 Technologies
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
- -->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -64,6 +27,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disco07&hide=c,python,jupyter%20notebook&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disco07&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disco07&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disco07&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disco07&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=disco07&theme=github)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
