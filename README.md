@@ -12,21 +12,15 @@
  <li>⌨ I do OPS with Docker, kubernetes, Terraform.</li>
  <li>⚡ Coding is my passion.</li>
 </ul>
-<!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at koneenok@outlook.fr! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/disco07">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=disco07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disco07&hide=c,python,jupyter%20notebook&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disco07&theme=github)
