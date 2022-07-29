@@ -6,7 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+🔭 I use PHP (Symfony), Golang, Python and JavaScript/TypeScript (React)
+🛠 I'm working with PostgreSQL, RabbitMQ
+⌨ I do OPS with Docker, kubernetes, Terraform
 <!-- 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
@@ -14,7 +17,7 @@
 ✉️ &nbsp;You can shoot me an email at koneenok@outlook.fr! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-### 🛠 Languages
+<!-- ### 🛠 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![GO](https://img.shields.io/badge/-Go-000?&logo=Go)
@@ -52,7 +55,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
-
+ -->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
