@@ -2,8 +2,6 @@
 
 <h2>👋 Hey there! I'm Drissa</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Drissa -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 <ul>
  <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li>
