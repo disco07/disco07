@@ -25,7 +25,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=disco07&theme=github)
 
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
