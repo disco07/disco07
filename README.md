@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disco07&hide=c,python,jupyter%20notebook&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disco07&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disco07&theme=github) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disco07&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disco07&theme=github)
