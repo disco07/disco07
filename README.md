@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <ul>
  <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li>
- <li>🔭 I use PHP (Symfony), Golang, Python, Rust and JavaScript/TypeScript (React|NextJS).</li>
+ <li>🔭 I use Rust, Golang, PHP (Symfony), Python and JavaScript/TypeScript (React|NextJS).</li>
  <li>🛠 I'm working with PostgreSQL, SQLServer, MySQL, Kafka.</li>
  <li>⌨ I do OPS with Docker, Kubernetes, Terraform.</li>
  <li>⚡ Coding is my passion.</li>
